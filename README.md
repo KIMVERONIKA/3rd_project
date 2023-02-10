@@ -1,4 +1,4 @@
-# Data-Analysis-Facebook
+# The 3nd team project. Data-Analysis-Facebook
 The project targeted marketing ads on facebook.
 Our task is to build a model of machine learning that will predict a person will click on an advertisement or not.
 The Classification task yes or no.
