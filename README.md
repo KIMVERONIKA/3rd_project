@@ -4,13 +4,21 @@ Our task is to build a model of machine learning that will predict a person will
 
 The project consists of parts:
 -Introduction
+
 -Problem definition
+
 -Data Analysis
+
 -Feature Engineering
+
 -Feature Selection
+
 -Discretization
+
 -Scaling
+
 -Training model
+
 -Evaluation Results
 
 MACHINE LEARNING MODEL WAS USED:
