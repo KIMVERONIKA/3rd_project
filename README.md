@@ -1,7 +1,11 @@
 # The 3nd team project. Data-Analysis-Facebook
 The project targeted marketing ads on facebook.
 Our task is to build a model of machine learning that will predict a person will click on an advertisement or not.
-
+Total =  499
+Number of customers who clicked on ad =  250
+Percentage clicked =  50.1 %
+Did not click =  249
+Persentage who did not click =  49.9 %
 The project consists of parts:
 -Introduction
 
