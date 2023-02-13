@@ -6,7 +6,9 @@ number of customers who clicked on ad =  250,
 percentage clicked =  50.1 %,
 did not click =  249,
 persentage who did not click =  49.9 %.
+
 The project consists of parts:
+
 -Introduction
 
 -Problem definition,
