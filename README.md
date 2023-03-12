@@ -1,33 +1,24 @@
 # The 3nd team project. Data-Analysis-Facebook
+
+## Objective/Goal
 The project targeted marketing ads on facebook.
-Our task is to build a model of machine learning that will predict a person will click on an advertisement or not.
-Total =  499,
+Our task is to build a model of machine learning that will predict a person will click on the advertisement or not on Facebook.
+
+
+## Role
+We worked independently for 1 month for our 3rd team project to extract, clean, analyze, visualize, create model with diffrent classifier and fit the models.
+
+## Data
+This dataset consists total of a 499 answers.
 number of customers who clicked on ad =  250,
 percentage clicked =  50.1 %,
 did not click =  249,
 persentage who did not click =  49.9 %.
 
-The project consists of parts:
+## Tools Used
+MeanMedianImputer, CategoricalImputer, RobustScaler, LabelEncoder, OneHotEncoder, SklearnTransformerWrapper, EqualWidthDiscretiser, Pipeline, GridSearchCV
 
--Introduction
-
--Problem definition,
-
--Data Analysis,
-
--Feature Engineering,
-
--Feature Selection,
-
--Discretization,
-
--Scaling,
-
--Training model,
-
--Evaluation Results
-
-MACHINE LEARNING MODEL WAS USED:
+## Models Used
 
 1.NAIVE BAYES CLASSIFICATION, 
 
@@ -41,7 +32,11 @@ MACHINE LEARNING MODEL WAS USED:
 
 6.SUPER LEANER
 
-CONCLUTION: According to the results, the best model is 
+## Code
+Code for this project can be found here: https://github.com/KIMVERONIKA/3rd_project/blob/main/Facebook_ads%20(2).ipynb
+
+## Results
+According to the results, the best model is 
 
 1. NAÏVE BAYES CLASSIFICATION 
 2. LOGISTIC REGRESSION 
